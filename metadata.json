@@ -1,0 +1,6 @@
+{
+  "name": "Myra AI Ecosystem",
+  "description": "Production-grade AI personal assistant system featuring Android Jetpack Compose client, FastAPI cloud orchestrator, PostgreSQL SQLModel ORM, and cybernetic dark task dashboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
